@@ -1,7 +1,13 @@
 # Kizo's Modpack
 Personnal minecraft modpack with a bunch of mods added based on preference and what I wanted to play with. This repository is mainly to track the mods added in an organized way.
 
-## Installed Mods
+Table of contents
+--------------------
+[Mods Used](#mods)  
+[Mod Dependencies](#dependencies)  
+
+## Mods Used
+<a id="mods"></a>
 | Mod                         | Description                                                                                                            | Category        | Link                                                                | Documentation                                                                   | Comment   |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------- |
 | Additional Redstone         | Adds more redstone items like logic gates.                                                                             | Technology      | [Link](https://modrinth.com/mod/additional-redstone)                |                                                                                 |           |
@@ -44,6 +50,7 @@ Personnal minecraft modpack with a bunch of mods added based on preference and w
 | WTHIT                       | Adds an in-game tooltip with information about what block (or fluid) the player is looking at.                         | Quality of Life | [Link](https://modrinth.com/mod/wthit)                              |                                                                                 |           |
 
 ## Mod Dependencies 
+<a id="dependencies"></a>
 | Mod                          | Category           | Link                                                                       |
 | ---------------------------- | ------------------ | -------------------------------------------------------------------------- |
 | Architectury API             | Dependency/Library | [Link](https://modrinth.com/mod/architectury-api)                          |
